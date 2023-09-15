@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<div style="display:flex; flex-direction:row-reverse; gap: 10px; justify-content:space-between;align-items:center">
+<div style="display:flex; flex-direction:row-reverse; gap: 10px; align-items:center">
 
 ![](https://komarev.com/ghpvc/?username=niraj2477)
 
