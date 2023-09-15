@@ -1,7 +1,31 @@
-<h1 align="center">Hi 👋, I'm Niraj Gautam</h1>
-<h3 align="center">A web engineer working on Wordpress</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj2477&label=Profile%20views&color=0e75b6&style=flat" alt="14987" /> </p>
+<h1 align="center"></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi 👋, I'm Niraj Gautam&animation=fadeIn&type=waving&color=gradient&height=200"/>
+</p>
+
+<div style=" display: flex; flex-direction: row; gap:10px;align-items:center">
+<b>Glad to see you all here!</b>
+
+<img src="https://komarev.com/ghpvc/?username=niraj2477&label=Profile%20views&color=0e75b6&style=flat" alt="niraj2477" /> 
+</div>
+<hr>
+
+<div style="display: flex; flex-direction: row; gap:10px; justify-content:center" >
+
+<a href="https://www.linkedin.com/in/niraj-gautam-b81685229/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
+
+ <a href="https://twitter.com/NirajGautam196"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a> 
+
+ <a href="https://www.instagram.com/_gautam_niraj/">
+
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+</a>
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niraj2477&theme=onedark" alt="14987" /></a> </p>
 
