@@ -1,5 +1,7 @@
-
-<img src="https://capsule-render.vercel.app/api?text=Hey, I'm Niraj gautam️&animation=twinkling&type=waving&color=timeGradient&height=100"/>
+<div align="center">
+  
+<img  src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Niraj%20Gautam️&animation=twinkling&type=waving&color=timeGradient&height=150"/>
+</div>
 
 ### <div align="center">🚀 Welcome to my digital playground! 🖥️  </div>
 ![Profile views counter](https://komarev.com/ghpvc/?username=niraj2477&&style=flat-square)  
